@@ -11,16 +11,6 @@ Proyecto orientado a **análisis de datos y backend**, con foco en consultas SQL
 - SQLite
 - SQL
 
-## 📁 Estructura del proyecto
-api_ventas/
-│
-├── app.py
-├── data/
-│ └── ventas.db
-├── scripts/
-│ ├── generar_datos.py
-│ └── consultas.py
-└── README.md
 
 ## ▶️ Cómo ejecutar el proyecto
 1. Clonar el repositorio:
