@@ -29,4 +29,9 @@ Proyecto desarrollado con fines educativos y de práctica profesional,
 orientado a análisis de datos, SQL y desarrollo backend con Python.
 
 Los datos utilizados son ficticios
-   
+
+##👨‍💻 Autor
+- Braian Carranza.
+- Estudiante de Ingeniería en Informática.
+- Python | SQL | SQLite | Backend | Data
+- Linkedin: https://www.linkedin.com/in/braian-carranza-3775b3292/
