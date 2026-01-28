@@ -30,7 +30,7 @@ orientado a análisis de datos, SQL y desarrollo backend con Python.
 
 Los datos utilizados son ficticios
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 - Braian Carranza.
 - Estudiante de Ingeniería en Informática.
 - Python | SQL | SQLite | Backend | Data
